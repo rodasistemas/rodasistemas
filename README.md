@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, AWS, Android Studio, Netlify, Heroku, Git e GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, AWS, Android Studio, Netlify, Heroku, Git and GitHub.</strong>
 </p>
 
 <p align="left">
