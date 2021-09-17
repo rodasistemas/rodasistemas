@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <h1 align="center">
-  Hello!!  My name is Rodrigo Daniel and I am <strong>FullStack Developer</strong>.<br></h1>
+  Hello!!  My name is Rodrigo Daniel and I'm <strong>Senior FullStack Developer</strong>.<br></h1>
   I am studying System and System Development for Internet.
 </p>
 
