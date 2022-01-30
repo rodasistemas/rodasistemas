@@ -56,3 +56,7 @@
 
 
 <canvas id="c"></canvas>
+<script\>
+
+  alert("Hi! There");
+</script\>
