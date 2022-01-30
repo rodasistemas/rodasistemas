@@ -30,3 +30,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/rodasistemas/"/></a>
 </p>
 </div>
+<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api?username=rodasistemas&count_private=true&show_icons=true&theme=tokyonight" />
+<!-- If you're using "main" as default branch
+![Metrics](https://github.com/rodasistemas/rodasistemas/blob/main/github-metrics.svg)
+-->
