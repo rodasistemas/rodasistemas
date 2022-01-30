@@ -56,7 +56,7 @@
 
 
 <canvas id="c"></canvas>
-<script\>
+ ```js
 
-  alert("Hi! There");
-</script\>
+  console.info("Bye!👋)
+```
