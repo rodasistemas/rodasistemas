@@ -11,7 +11,7 @@
 
 <p align="left"> 
   <pre style="width: 100%" >
-  <h1 align="left" style="color: red">
+  <h1 align="left" style="color: red; transition:all 2s ease 1s; animation: rollUp">
     > Hello Friend[s]!!  
   </h1>
   <big>
