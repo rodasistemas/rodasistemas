@@ -53,11 +53,11 @@
 </p>
 
 <p align="left">
-  ➡️ Skills: <strong>HTML5, CSS3, JavaScript, PHP, Node, React and ReactNative.</strong>
+  ➡️ Skills: <strong>Angular, Python, JavaScript, PHP, Node, React and ReactNative.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, AWS, Android Studio, Netlify, Heroku, Git and GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Azure, AWS, Android Studio, Netlify, Heroku, Git and GitHub.</strong>
 </p>
 
 <p align="left">
@@ -81,6 +81,6 @@
 <canvas id="c"></canvas>
  ```js
 
-  console.info("Bye!👋)
+  console.info("Bye!👋")
 ```
 </div>
