@@ -2,27 +2,9 @@
 <div style="
   -webkit-animation: slide-up 0.9s cubic-bezier(0.65, 0, 0.35, 1) both;
           animation: slide-up 0.9s cubic-bezier(0.65, 0, 0.35, 1) both;
-
-
-@-webkit-keyframes slide-up {
-  0% {
-    transform: translateY(100px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
-
-@keyframes slide-up {
-  0% {
-    transform: translateY(100px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}">
-<div style="background: url(https://web4comunicacao.com/wp-content/uploads/2016/07/lines-of-code.jpg);  ">
-  <p align="left">#root>system is ready!</p>
+">
+<div style="background-image: url(https://web4comunicacao.com/wp-content/uploads/2016/07/lines-of-code.jpg);  ">
+  <pre align="left">#root>system is ready!</pre>
 <small style="height: 30px"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
   
   <img src="https://user-images.githubusercontent.com/27720916/151708725-e6ba3538-4d83-4697-946f-d6189361b2bc.gif" alt="DevProf" min-width="300px" max-width="300px" width="200px" align="right"/>
