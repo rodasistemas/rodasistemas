@@ -47,10 +47,10 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/rodasistemas/" alt="Instagram">
+  <a href="https://www.instagram.com/rodasistema" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rodasistemas/"/></a>
   
-  <a href="https://www.linkedin.com/in/daniel-andrade-293732b3/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/rodasistemas/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-andrade-293732b3/" /></a>
 
   <a href="https://www.facebook.com/rodasistemas/" alt="Facebook">
@@ -60,9 +60,3 @@
 </div>
 
 
-<canvas id="c"></canvas>
- ```js
-
-  console.info("Bye!👋")
-```
-</div>
